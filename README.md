@@ -27,7 +27,7 @@
 
 * Push the changes in your local repository to GitHub or whichever repo you have setup. 
 	git push origin your-branch
-	# Pushes the changes in your local repository up to the remote repository you specified as the origin
+	(Pushes the changes in your local repository up to the remote repository you specified as the origin)
 
 
 * New Pull Request will be available (Will show exact url location of pull request on console.)
