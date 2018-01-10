@@ -3,30 +3,30 @@
  Here's some very quick steps I gathered to setting up with Git and getting up and running with your project from updating, creating branch, checking out branch, merging branches, and pushing branch to repository. 
 
 * Always update before running your app
-	git pull
+	- git pull
 
 
 * git checkout master
  
 
 * create a new branch named "feature_x" and switch to it using
-	git checkout -b feature_x
+	- git checkout -b feature_x
 
 
 * Stage the file for commit to your local repository after development
-	git add .
+	- git add .
 
 
 * Commit the file that you've staged in your local repository.
-	git commit -m "Add existing file"
+	- git commit -m "Add existing file"
 
 
 * To merge another branch into your active branch (e.g. master), use
-	git merge <branch>
+	- git merge <branch>
 
 
 * Push the changes in your local repository to GitHub or whichever repo you have setup. 
-	git push origin your-branch
+	- git push origin your-branch
 	(Pushes the changes in your local repository up to the remote repository you specified as the origin)
 
 
