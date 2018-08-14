@@ -23,7 +23,7 @@ Where -f stands for "force commit" (or if on another branch, git push -f <repo n
 
 git stash - save work
 
-git stash apply - add saved work to new branch if neeeded
+git stash apply - add saved work to new branch if needed
 
 git reset --merge  If you've decided that whatever merge you were trying to do was a bad idea after all, you can put things back to normal 
 
