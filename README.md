@@ -28,7 +28,7 @@ Where -f stands for "force commit" (or if on another branch, git push -f <repo n
 
 - git reset --merge  If you've decided that whatever merge you were trying to do was a bad idea after all, you can put things back to normal 
 
-- git fetch --all - - git fetch downloads the latest from remote without trying to merge or rebase anything.
+- git fetch --all - git fetch downloads the latest from remote without trying to merge or rebase anything.
 - git reset --hard origin/master - Do a reset after git fetch --all
 
 
