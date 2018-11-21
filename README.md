@@ -1,3 +1,4 @@
+
 # Git Simple Steps For Everyday Development
 
  Here's some very quick steps I gathered for setting up Git, getting up and running with your project from updating, creating branch, checking out branches, merging branches, merge issues, pull issues, pushing branches to repository, etc.
