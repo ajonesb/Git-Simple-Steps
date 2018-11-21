@@ -32,7 +32,7 @@ Where -f stands for "force commit" (or if on another branch, git push -f <repo n
 - git reset --hard origin/master - git fetch downloads the latest from remote without trying to merge or rebase anything.
 
 
-* Remove git ignore and other unneccessary files that you dont wanna commit in git status que:
+*** Remove git ignore and other unneccessary files that you dont wanna commit in git status que: ***
 
 The series of commands below will remove all of the items from the Git Index (not from the working directory or local repo), and then updates the Git Index, while respecting git ignores. PS. Index = Cache
 
